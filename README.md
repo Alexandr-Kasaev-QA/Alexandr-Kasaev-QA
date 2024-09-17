@@ -76,7 +76,7 @@
 <br>
 
 ## 🪴 Практика и стажировка (проходил чтобы расшевелить мозги)
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Alexandr-Kasaev-QA/Alexandr-Kasaev-QA/main/sasha-psypsy_2.png)
+[<img src="/sasha-psypsy_2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Alexandr-Kasaev-QA/Alexandr-Kasaev-QA/main/sasha-psypsy_2.png)
 
 
 
