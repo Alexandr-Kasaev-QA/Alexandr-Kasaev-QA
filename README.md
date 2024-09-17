@@ -1,4 +1,4 @@
-## Всем ривет！ 👋
+## Всем привет！ 👋
 Меня зовут Александр, я QA Engineer
 
 ## 📊 Статистика
@@ -9,7 +9,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Alexandr-Kasaev-QA)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=github-dark&username=Alexandr-Kasaev-QA)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
